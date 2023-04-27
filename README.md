@@ -1,6 +1,6 @@
 # React Native Learning Exercises
 
-- This repository contains a collection of small exercises that I used as part of my journey to learn React Native. I've created this repository to keep track of my progress.
+- The purpose of this repository is to provide a platform for me to undertake small exercises as part of my React Native learning journey.
 
 ## What is React Native?
 
@@ -9,6 +9,21 @@
 ## Why Small Exercises?
 
 - I've found that one of the best ways to learn a new technology is by doing small, focused exercises. These exercises allow me to practice specific skills and concepts without getting overwhelmed by a large project. By breaking down my learning into smaller chunks, I can make progress more quickly and build confidence as I go.
+
+## Installation
+```
+npx create-expo-app
+```
+
+Or with router:
+```
+npx create-expo-app@latest --example with-router ./
+```
+Then go to Power Shell terminal and:
+```
+npm start
+```
+Then scan the barcode.
 
 ## A Thanks to My Resources
 
