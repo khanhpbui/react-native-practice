@@ -19,7 +19,7 @@ Or with router:
 ```
 npx create-expo-app@latest --example with-router ./
 ```
-Then go to Power Shell terminal and:
+Then:
 ```
 npm start
 ```
